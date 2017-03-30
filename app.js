@@ -1,6 +1,6 @@
 var lab1_1 = require("./lab/lab1_1").lab;
 var example_1 = require("./example_1").lab;
-var ec2_comm = require(".lab/ec2_comm").lab;
+var ec2_comm = require("./lab/ec2_comm").lab;
 
 var PORT = 8080;
 
